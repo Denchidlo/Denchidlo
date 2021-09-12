@@ -14,3 +14,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hello, my name is Denis Ivanchuk and I am a student at [BSUIR](https://www.bsuir.by/). I am a Data Science novice / young mathematician / CS student
+
+- 🔭 I’m currently exploring the data sciene by participating in [Future Sales Competition](https://github.com/Denchidlo/FutureSales)
+- 💬 Brainstorm with me over ML, algorithms, career and tech
+- 📫 How to reach me: twihkapb@gmail.com
+
+**Languages and Tools:** 
+
+![Python](https://img.shields.io/badge/-Python-black?logo=Python&style=social)&nbsp;&nbsp;
+![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Denchidlo&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rusty-sj&hide=TeX&layout=compact)
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Denchidlo.Denchidlo)
+
+
+## Connect 🤝
+
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denis-ivanchuk-89a9aa20a/) &emsp;
+[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:twihkapb@gmail.com) &emsp;
