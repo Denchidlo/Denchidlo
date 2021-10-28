@@ -18,7 +18,9 @@ Here are some ideas to get you started:
 Hello, my name is Denis Ivanchuk and I am a student at [BSUIR](https://www.bsuir.by/). I am a Data Science novice / young mathematician / CS student
 
 
-- 🔭 I’m currently exploring the data sciene by participating in [Future Sales Competition](https://github.com/Denchidlo/FutureSales)
+Data Science projects:
+- Participating in [Future Sales Competition](https://github.com/Denchidlo/FutureSales)
+- Creation of naive Neural Network Library [big-torch](https://github.com/Denchidlo/big-torch)
 
 
 
